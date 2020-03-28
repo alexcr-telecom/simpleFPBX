@@ -1,4 +1,5 @@
 #!/bin/bash
+
 # Disabling SeLinux for installation(Remains disabled untill reboot ar manual enable). 
 setenforce 0
 
